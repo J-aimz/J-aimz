@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @J-aimz 
 - 👀 I’m a full stack developer (dotNet and React Js.)
-- 🌱 I’m currently learning react and javascript
 - 💞️ I look forward to collaborations on fun and exciting front and backend development projects
 <!-- - 📫 How to reach me  -->
   jamesluckyadah@gmail.com
